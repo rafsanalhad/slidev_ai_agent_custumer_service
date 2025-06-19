@@ -1,6 +1,5 @@
 ---
 theme: default
-background: https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -14,7 +13,7 @@ title: AI Customer Service Agent
 mdc: true
 ---
 
-# 🚀 AI Customer Service Agent
+# AI Customer Service Agent
 ## with WhatsApp Integration
 
 <div class="pt-12">
@@ -34,39 +33,39 @@ layout: center
 class: text-center
 ---
 
-# 🎯 The Problem in Indonesia
+# The Problem in Indonesia
 
 <div class="grid grid-cols-2 gap-8 mt-8">
 
 <div class="bg-red-500 bg-opacity-20 p-6 rounded-xl">
-<h3 class="text-xl font-bold text-red-400 mb-4">😤 Customer Frustration</h3>
+<h3 class="text-xl font-bold text-red-400 mb-4">Customer Frustration</h3>
 <ul class="text-left space-y-2">
-<li>• AI can't handle emotional situations</li>
-<li>• Customers abandon purchases when frustrated</li>
-<li>• No human empathy in critical moments</li>
+<li>AI can't handle emotional situations</li>
+<li>Customers abandon purchases when frustrated</li>
+<li>No human empathy in critical moments</li>
 </ul>
 </div>
 
 <div class="bg-blue-500 bg-opacity-20 p-6 rounded-xl">
-<h3 class="text-xl font-bold text-blue-400 mb-4">📱 WhatsApp Preference</h3>
+<h3 class="text-xl font-bold text-blue-400 mb-4">WhatsApp Preference</h3>
 <ul class="text-left space-y-2">
-<li>• CS agents prefer WhatsApp communication</li>
-<li>• Can't respond from WhatsApp to website</li>
-<li>• Communication gap between platforms</li>
+<li>CS agents prefer WhatsApp communication</li>
+<li>Can't respond from WhatsApp to website</li>
+<li>Communication gap between platforms</li>
 </ul>
 </div>
 
 </div>
 
 <div class="mt-8 p-4 bg-orange-500 bg-opacity-20 rounded-xl">
-<h3 class="text-lg font-bold text-orange-400">💰 Result: Lost Sales & Poor Customer Experience</h3>
+<h3 class="text-lg font-bold text-orange-400">Result: Lost Sales & Poor Customer Experience</h3>
 </div>
 
 ---
 layout: center
 ---
 
-# 💡 Our Solution
+# Our Solution
 
 <div class="grid grid-cols-3 gap-6 mt-8">
 
@@ -91,7 +90,7 @@ layout: center
 </div>
 
 <div class="mt-8 text-center">
-<h2 class="text-2xl font-bold">🎯 Seamless AI-to-Human Escalation</h2>
+<h2 class="text-2xl font-bold">Seamless AI-to-Human Escalation</h2>
 <p class="text-lg opacity-75">When customers get frustrated, they get human attention instantly</p>
 </div>
 
@@ -102,10 +101,9 @@ layout: two-cols
 # 🛠️ Tech Stack
 
 ## Frontend
-- **Next.js 14** - Modern React framework
+- **Next.js** - Modern React framework
 - **TypeScript** - Type safety
 - **Tailwind CSS** - Beautiful styling
-- **Glassmorphism UI** - Modern design
 
 ## Backend
 - **Flask** - Python web framework
@@ -119,19 +117,10 @@ layout: two-cols
 
 <div class="space-y-4">
 
-<div class="bg-green-500 bg-opacity-20 p-4 rounded-lg">
-<h4 class="font-bold text-green-400">Response Time</h4>
-<p class="text-2xl font-bold">&lt; 2 seconds</p>
-</div>
 
 <div class="bg-blue-500 bg-opacity-20 p-4 rounded-lg">
 <h4 class="font-bold text-blue-400">Escalation Accuracy</h4>
 <p class="text-2xl font-bold">85%+</p>
-</div>
-
-<div class="bg-purple-500 bg-opacity-20 p-4 rounded-lg">
-<h4 class="font-bold text-purple-400">Message Sync</h4>
-<p class="text-2xl font-bold">Sub-second</p>
 </div>
 
 <div class="bg-orange-500 bg-opacity-20 p-4 rounded-lg">
@@ -173,7 +162,7 @@ layout: center
 </div>
 
 <div class="mt-8 text-center">
-<p class="text-xl font-bold">🎯 Customer never knows they switched from AI to human!</p>
+<p class="text-xl font-bold">Customer never knows they switched from AI to human!</p>
 </div>
 
 ---
@@ -370,32 +359,9 @@ layout: center
 
 </div>
 
-<div class="mt-8 p-6 bg-gradient-to-r from-purple-500 to-cyan-500 bg-opacity-20 rounded-xl">
-<h3 class="text-xl font-bold">💰 Business Model</h3>
-<div class="grid grid-cols-3 gap-4 mt-4 text-sm">
-<div class="text-center">
-<h4 class="font-bold">Freemium</h4>
-<p>Basic AI chat</p>
-<p class="text-xs opacity-75">Free</p>
-</div>
-<div class="text-center">
-<h4 class="font-bold">Professional</h4>
-<p>WhatsApp integration</p>
-<p class="text-xs opacity-75">$49/month</p>
-</div>
-<div class="text-center">
-<h4 class="font-bold">Enterprise</h4>
-<p>Multi-agent, analytics</p>
-<p class="text-xs opacity-75">$199/month</p>
-</div>
-</div>
-</div>
-
 ---
 layout: center
 ---
-
-# 🏆 Why We'll Win This Hackathon
 
 <div class="grid grid-cols-2 gap-8 mt-8">
 
@@ -433,10 +399,6 @@ layout: center
 
 </div>
 
-<div class="mt-8 p-6 bg-gradient-to-r from-purple-500 to-cyan-500 bg-opacity-20 rounded-xl text-center">
-<h3 class="text-xl font-bold">🚀 This isn't just a prototype - it's a market-ready solution!</h3>
-</div>
-
 ---
 layout: center
 class: text-center
@@ -448,18 +410,12 @@ class: text-center
 
 ## Questions & Discussion
 
-<div class="grid grid-cols-3 gap-6 mt-8">
-
-<div class="p-6 bg-blue-500 bg-opacity-20 rounded-xl">
-<div class="text-2xl mb-2">🌐</div>
-<h3 class="font-bold">Live Demo</h3>
-<p class="text-sm">your-demo-url.com</p>
-</div>
+<div class="grid grid-cols-2 gap-6 mt-8">
 
 <div class="p-6 bg-purple-500 bg-opacity-20 rounded-xl">
 <div class="text-2xl mb-2">💻</div>
-<h3 class="font-bold">GitHub</h3>
-<p class="text-sm">github.com/your-repo</p>
+<h3 class="font-bold">GitHub Profile</h3>
+<p class="text-sm">github.com/rafsanalhad</p>
 </div>
 
 <div class="p-6 bg-green-500 bg-opacity-20 rounded-xl">
@@ -471,31 +427,8 @@ class: text-center
 </div>
 
 <div class="mt-8 text-lg">
-<p>🚀 <strong>Ready to revolutionize Indonesian customer service?</strong></p>
+<p><strong>Ready to revolutionize Indonesian customer service?</strong></p>
 <p class="text-sm opacity-75 mt-2">Let's make customer frustration a thing of the past!</p>
 </div>
 
-</div>
-
-<div class="abs-br m-6 text-right">
-  <div class="text-sm opacity-75">NeoTeckPark Hackathon 2024</div>
-  <div class="text-xs opacity-50">Made with ❤️ and lots of ☕</div>
-</div>
-
----
-layout: end
-class: text-center
----
-
-# 🏆 Let's Win This Together!
-
-<div class="text-center mt-12">
-  <div class="text-6xl mb-6">🚀</div>
-  <h2 class="text-3xl font-bold mb-4">AI Customer Service Agent</h2>
-  <p class="text-xl opacity-75 mb-8">The Future of Indonesian Customer Support</p>
-  
-  <div class="bg-gradient-to-r from-purple-500 to-cyan-500 bg-opacity-20 p-8 rounded-xl">
-    <p class="text-lg font-bold">Ready to transform customer service in Indonesia?</p>
-    <p class="text-sm opacity-75 mt-2">This is just the beginning of our journey!</p>
-  </div>
 </div>
